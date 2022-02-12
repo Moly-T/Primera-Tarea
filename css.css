@@ -1,0 +1,51 @@
+#banda{
+    font-family: 'Rowdies', cursive;
+    font-size: larger;
+    background-color: rgb(67, 90, 110);
+    color: aliceblue;  
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+#top{
+    text-align: center;
+}
+
+#table{
+    text-align: center;
+    display: flex;
+   justify-content: center;
+   border: 0px;
+   font-family: 'Rowdies', cursive;
+}
+ 
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#desc{
+   
+    display: flex;
+   justify-content: center;
+   font-size: medium;
+
+}   
+
+p{
+    font-family: 'Rowdies', cursive;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#profile{
+    display: flex;
+    justify-content: center;
+}
+
+#desc2{
+    text-align: center;
+    display: flex;
+   justify-content: center;
+   font-size: larger;
